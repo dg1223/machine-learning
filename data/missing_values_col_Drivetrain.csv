@@ -1,0 +1,137 @@
+,Make,Model,Price,Year,Kilometer,Fuel Type,Transmission,Location,Color,Owner,Seller Type,Engine,Max Power,Max Torque,Drivetrain,Length,Width,Height,Seating Capacity,Fuel Tank Capacity
+33,Honda,CR-V 2.4 AT,860000,2013,67000,Petrol,Automatic,Mumbai,Brown,First,Individual,,,,,,,,,
+69,Audi,A4 2.0 TDI (143 bhp),1250000,2012,50000,Diesel,Automatic,Mumbai,White,First,Individual,,,,,,,,,
+94,Mercedes-Benz,GLC 220 d Sport,3900000,2018,83400,Diesel,Automatic,Hyderabad,White,Second,Individual,,,,,,,,,
+108,Honda,Brio S MT,229000,2013,38175,Petrol,Manual,Kolkata,Blue,First,Individual,,,,,,,,,
+117,Hyundai,Santro GL LPG,120000,2009,48500,LPG,Manual,Lucknow,Grey,Fourth,Individual,1086 cc,63@5500,89@3000,,3565.0,1525.0,1590.0,5.0,35.0
+138,Maruti Suzuki,Ritz VXI BS-IV,210000,2011,58888,Petrol,Manual,Delhi,Maroon,Second,Individual,,,,,,,,,
+147,Mercedes-Benz,GLC 220 d Sport,4400000,2018,47009,Diesel,Automatic,Pune,Blue,Second,Individual,,,,,,,,,
+162,MG,Hector Sharp 1.5 DCT Petrol [2019-2020],1729000,2020,27000,Petrol,Automatic,Panvel,Silver,First,Individual,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,,4655.0,1835.0,1760.0,5.0,60.0
+177,Maruti Suzuki,Wagon R VXi,350000,2013,45000,Petrol,Manual,Pune,White,First,Individual,998 cc,68@6200,90@3500,,3539.0,1495.0,1700.0,5.0,35.0
+192,Toyota,Innova 2.5 G4 7 STR,645000,2013,76000,Diesel,Manual,Kanpur,Grey,Second,Individual,2494 cc,102@5600,200@1400,,4555.0,1770.0,1755.0,7.0,55.0
+225,Maruti Suzuki,Ritz Vdi BS-IV,275000,2011,65000,Diesel,Manual,Mumbai,Silver,First,Individual,1248 cc,75@4000,190@2000,,3715.0,1680.0,1620.0,5.0,43.0
+253,Maruti Suzuki,Wagon R VXi,235000,2012,37000,Petrol,Manual,Mumbai,Brown,Second,Individual,998 cc,68@6200,90@3500,,3539.0,1495.0,1700.0,5.0,35.0
+266,BMW,3-Series 320d,800000,2012,75576,Diesel,Automatic,Mumbai,White,Second,Individual,,,,,,,,,
+276,BMW,5-Series 525d Sedan,1195000,2010,74000,Diesel,Automatic,Mumbai,Silver,Second,Individual,2497 cc,177@4000,400@2000,,4841.0,1846.0,1468.0,5.0,70.0
+291,Maruti Suzuki,Ritz VXI BS-IV,300000,2011,90000,Petrol,Manual,Pune,White,Second,Individual,,,,,,,,,
+293,Tata,Safari 4x2 EX TCIC,565000,2014,100472,Diesel,Manual,Ranchi,White,First,Individual,1948 cc,90@4300,190@3000,,4810.0,1918.0,1925.0,7.0,65.0
+295,Maruti Suzuki,Alto LXi BS-III,189000,2008,19759,Petrol,Manual,Chennai,Blue,First,Individual,796 cc,47@6200,62@3000,,3495.0,1475.0,1460.0,5.0,35.0
+296,Jaguar,XF 3.0 V6 Premium Luxury,1875000,2014,66000,Diesel,Automatic,Mumbai,Green,First,Individual,,,,,,,,,
+309,Volkswagen,Polo 1.2 TDI,290000,2014,125000,Diesel,Manual,Jamshedpur,Silver,First,Individual,,,,,,,,,
+319,Mahindra,Xylo D2 BS-IV,210000,2012,85000,Diesel,Manual,Kanpur,White,Fourth,Individual,2489 cc,95@3600,220@1400,,4520.0,1850.0,1895.0,7.0,55.0
+324,Audi,A4 2.0 TDI (143 bhp),975000,2012,93417,Diesel,Automatic,Lucknow,White,First,Individual,,,,,,,,,
+360,Fiat,Linea Emotion 1.4,235000,2011,54000,Petrol,Manual,Nashik,Black,First,Individual,1368 cc,90@6000,115@4500,,4560.0,1730.0,1487.0,5.0,45.0
+388,Tata,Grande GX,199000,2011,192326,Diesel,Manual,Ranchi,White,Third,Individual,2179 cc,120@4000,250@1500,,4421.0,1780.0,1940.0,7.0,65.0
+389,Toyota,Innova 2.0 V,575000,2013,82000,Petrol,Manual,Varanasi,Gold,UnRegistered Car,Individual,1998 cc,136@5600,182@4000,,4555.0,1770.0,1755.0,8.0,55.0
+409,Maruti Suzuki,Wagon R VXi 1.0 [2019-2019],440000,2018,40000,Petrol,Manual,Kanpur,White,First,Individual,,,,,3655.0,1620.0,1675.0,5.0,32.0
+410,Mercedes-Benz,E-Class 200 K Classic,509999,2007,39000,Petrol,Automatic,Ludhiana,Silver,Third,Individual,,,,,,,,,
+412,Maruti Suzuki,Alto LXi BS-III,227000,2011,87513,Petrol,Manual,Salem,Blue,Second,Individual,796 cc,47@6200,62@3000,,3495.0,1475.0,1460.0,5.0,35.0
+425,Toyota,Innova 2.5 G 8 STR BS-III,434999,2010,120000,Diesel,Manual,Ranchi,Silver,First,Individual,,,,,,,,,
+439,Maruti Suzuki,Ritz Vdi BS-IV,445000,2012,54948,Diesel,Manual,Mangalore,Silver,First,Individual,1248 cc,75@4000,190@2000,,3715.0,1680.0,1620.0,5.0,43.0
+447,Maruti Suzuki,Wagon R LXi CNG,285000,2011,52000,CNG,Manual,Mumbai,Brown,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+449,Skoda,Kodiaq Style 2.0 TDI 4x4 AT,1989999,2018,103000,Diesel,Automatic,Delhi,White,First,Individual,,,,,4697.0,1882.0,1665.0,7.0,63.0
+459,Tata,Manza Aqua Safire BS-IV,114999,2012,93000,Petrol,Manual,Unnao,Silver,Second,Individual,1368 cc,90@6000,116@4750,,4413.0,1703.0,1550.0,5.0,44.0
+477,Mercedes-Benz,S-Class 300,1500000,2012,158000,Petrol,Automatic,Chennai,Brown,First,Individual,,,,,,,,,
+486,Maruti Suzuki,Wagon R LXi CNG,315000,2013,72000,CNG,Manual,Mumbai,Brown,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+487,Maruti Suzuki,Zen LXi BS-II,71001,2004,65082,Petrol,Manual,Kolkata,Yellow,First,Individual,,,,,,,,,
+488,Honda,Brio S MT,295000,2012,66240,Petrol,Manual,Jaipur,Grey,Third,Individual,,,,,,,,,
+492,Mahindra,Bolero SLX 2WD,379000,2012,88500,Diesel,Manual,Panchkula,White,Second,Individual,,,,,,,,,
+509,Mercedes-Benz,C-Class C 250 CDI BlueEFFICIENCY,1044999,2012,75000,Diesel,Automatic,Mumbai,White,Second,Individual,,,,,,,,,
+516,Maruti Suzuki,Wagon R LXi CNG,280000,2011,54000,CNG,Manual,Mumbai,Silver,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+519,Maruti Suzuki,Alto LXi BS-III,150000,2011,65000,Petrol,Manual,Lucknow,White,First,Individual,796 cc,47@6200,62@3000,,3495.0,1475.0,1460.0,5.0,35.0
+532,Maruti Suzuki,Ritz Vdi BS-IV,350000,2012,89445,Diesel,Manual,Hyderabad,Grey,First,Individual,1248 cc,75@4000,190@2000,,3715.0,1680.0,1620.0,5.0,43.0
+560,Maruti Suzuki,Alto LXi BS-III,169000,2010,18500,Petrol,Manual,Lucknow,Gold,First,Individual,796 cc,47@6200,62@3000,,3495.0,1475.0,1460.0,5.0,35.0
+565,Tata,Grande GX,250999,2011,98000,Diesel,Manual,Mumbai,Silver,First,Individual,2179 cc,120@4000,250@1500,,4421.0,1780.0,1940.0,7.0,65.0
+571,Volkswagen,Vento Highline Petrol AT,345000,2011,50667,Petrol,Automatic,Mumbai,White,Second,Individual,,,,,,,,,
+604,Skoda,Kodiaq L&K 2.0 TDI 4x4 AT,3499000,2020,47000,Diesel,Automatic,Mumbai,White,First,Individual,,,,,4697.0,1882.0,1665.0,7.0,63.0
+612,Audi,A4 2.0 TDI Sline,745000,2013,72000,Diesel,Automatic,Gurgaon,Black,First,Individual,,,,,,,,,
+618,Hyundai,Eon Magna [2011-2012],190000,2013,63000,Petrol,Manual,Ludhiana,White,Second,Individual,814 cc,56@5500,75@4000,,3495.0,1550.0,1500.0,5.0,32.0
+628,Toyota,Fortuner 4x2 AT,1450000,2013,170669,Diesel,Automatic,Mumbai,White,First,Individual,2982 cc,171 @3600,343 @1400,,4705.0,1840.0,1850.0,7.0,80.0
+633,Volkswagen,Vento Trendline Diesel,360000,2012,80000,Diesel,Manual,Chandigarh,White,Second,Individual,,,,,,,,,
+642,Jaguar,XF 3.0 V6 Premium Luxury,3350000,2014,49235,Diesel,Automatic,Bangalore,Purple,First,Individual,,,,,,,,,
+648,Volkswagen,Polo Comfortline 1.2L (D),375000,2012,78000,Diesel,Manual,Raipur,Grey,Third,Individual,,,,,,,,,
+684,MG,Hector Sharp 1.5 DCT Petrol [2019-2020],1625000,2019,7000,Petrol,Automatic,Pune,Red,First,Individual,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,,4655.0,1835.0,1760.0,5.0,60.0
+722,Honda,Brio E MT,250000,2013,70000,Petrol,Manual,Dehradun,Grey,First,Individual,,,,,,,,,
+727,Jaguar,XF 3.0 V6 Premium Luxury,2650000,2015,62645,Diesel,Automatic,Hyderabad,Bronze,First,Individual,,,,,,,,,
+729,Jaguar,XF R 5.0 V8 Supercharged,2800000,2011,70662,Petrol,Automatic,Pune,Grey,Second,Individual,,,,,,,,,
+740,Chevrolet,Cruze LTZ,320000,2011,75000,Diesel,Manual,Kanpur,Purple,Second,Individual,1991 cc,150@4000,327@2600,,4597.0,1788.0,1477.0,5.0,60.0
+747,MINI,Cooper S,3200000,2017,10500,Petrol,Automatic,Mumbai,Black,First,Individual,1998 cc,189 bhp @,280 Nm @ 1250 rpm,,3850.0,1727.0,1414.0,4.0,44.0
+809,Hyundai,i20 Sportz 1.2 (O),335000,2013,80500,Petrol,Manual,Ambala Cantt,White,First,Individual,,,,,,,,,
+814,Hyundai,i20 Magna 1.2,250000,2011,75431,Petrol,Manual,Mumbai,Grey,First,Individual,,,,,,,,,
+824,Honda,City 1.5 EXi,100000,2002,65494,Petrol,Manual,Ranchi,Beige,First,Individual,,,,,,,,,
+835,MINI,Cooper S,3900000,2020,13000,Petrol,Automatic,Delhi,Black,First,Individual,1998 cc,189 bhp @,280 Nm @ 1250 rpm,,3850.0,1727.0,1414.0,4.0,44.0
+837,Porsche,Panamera 3.0 Diesel,6350000,2016,20500,Diesel,Automatic,Delhi,White,First,Corporate,,,,,,,,,
+848,Maruti Suzuki,Estilo VXi,135000,2008,72542,Petrol,Manual,Mirzapur,Pink,First,Individual,1061 cc,64@6200,84@3500,,3495.0,1495.0,1595.0,5.0,35.0
+879,Toyota,Commuter HiAce 3.0 L,3100000,2014,65000,Diesel,Automatic,Ludhiana,White,First,Individual,,,,,,,,,
+884,Maruti Suzuki,Baleno Alpha (O) 1.2,975000,2022,5000,Petrol,Manual,Delhi,White,First,Individual,,,,,,,,,
+895,Audi,A4 2.0 TDI (143 bhp),1150000,2012,40031,Diesel,Automatic,Pune,Blue,Second,Individual,,,,,,,,,
+904,Volkswagen,Jetta 1.9L TDI,310000,2009,107879,Diesel,Manual,Pune,White,Second,Individual,,,,,,,,,
+922,Hyundai,i20 Asta 1.4 AT with AVN,310000,2011,26000,Petrol,Automatic,Mumbai,Silver,First,Individual,1396 cc,100@5500,137@4200,,3940.0,1710.0,1505.0,5.0,45.0
+937,Hyundai,i20 Sportz 1.2 (O),275000,2011,45000,Petrol,Manual,Delhi,White,First,Individual,,,,,,,,,
+972,Mercedes-Benz,C-Class 220 CDI Sport,1100000,2012,73000,Diesel,Automatic,Kanpur,White,First,Individual,,,,,,,,,
+991,Nissan,Teana 250XL,550000,2013,33000,Petrol,Automatic,Pune,Red,First,Individual,,,,,,,,,
+1033,Volkswagen,Vento Highline Petrol,275000,2011,80000,Petrol,Manual,Delhi,White,Second,Individual,,,,,,,,,
+1037,Maruti Suzuki,Ritz Vdi BS-IV,120000,2009,80000,Diesel,Manual,Kanpur,Silver,4 or More,Individual,1248 cc,75@4000,190@2000,,3715.0,1680.0,1620.0,5.0,43.0
+1044,Mahindra,Xylo D4,325000,2012,70000,Diesel,Manual,Patna,White,Third,Individual,2489 cc,95@3600,220@1400,,4520.0,1850.0,1895.0,8.0,55.0
+1046,Lexus,LX SUV Petrol,2100000,2007,34000,Petrol,Automatic,Mumbai,Maroon,Second,Corporate,,,,,,,,,
+1061,BMW,3-Series 320d Highline Sedan,1200000,2012,125000,Diesel,Automatic,Ahmedabad,White,First,Individual,,,,,,,,,
+1063,Mercedes-Benz,S-Class 280 AT,1200000,2000,65000,Petrol,Automatic,Dehradun,Yellow,Second,Individual,,,,,,,,,
+1074,Hyundai,i20 Asta 1.2,299000,2011,30000,Petrol,Manual,Panvel,Blue,Third,Individual,,,,,,,,,
+1075,Jeep,Compass Longitude (O) 2.0 Diesel [2017-2020],1580000,2020,57000,Diesel,Manual,Pune,White,First,Individual,,,,,4395.0,1818.0,1640.0,5.0,60.0
+1077,Land Rover,Discovery 3.0 TDV6 HSE,4390000,2013,91840,Diesel,Automatic,Mumbai,Blue,Second,Individual,,,,,,,,,
+1078,Hyundai,i20 Asta 1.2,235000,2009,115000,Petrol,Manual,Coimbatore,Blue,Third,Individual,1197 cc,80@5200,112@4000,,3940.0,1710.0,1505.0,5.0,45.0
+1085,Maruti Suzuki,Wagon R VXi,250000,2012,68000,Petrol,Manual,Kanpur,White,First,Individual,998 cc,68@6200,90@3500,,3539.0,1495.0,1700.0,5.0,35.0
+1087,Audi,Q5 35 TDI Premium Plus,4000000,2018,66000,Diesel,Automatic,Chennai,White,First,Individual,,,,,,,,,
+1095,Honda,Civic 1.8V MT,777000,2014,9212,Petrol,Manual,Patna,Grey,First,Individual,,,,,,,,,
+1106,Volkswagen,Polo Comfortline 1.2L (P),240000,2010,78000,Petrol,Manual,Ludhiana,White,Second,Individual,,,,,,,,,
+1150,Ford,Ikon DuraTorq 1.4 TDCi,145000,2009,88000,Diesel,Manual,Unnao,White,First,Individual,1399 cc,68@4000,160@2000,,4145.0,1632.0,1440.0,5.0,43.0
+1173,Maruti Suzuki,Wagon R VXi 1.0 [2019-2019],540000,2021,22000,Petrol,Manual,Gorakhpur,White,First,Individual,,,,,3655.0,1620.0,1675.0,5.0,32.0
+1205,Hyundai,i20 Sportz 1.4 CRDI,550000,2014,75000,Diesel,Manual,Bangalore,Maroon,First,Individual,1396 cc,90@4000,220@1750,,3940.0,1710.0,1505.0,5.0,45.0
+1278,Skoda,Kodiaq Style 2.0 TDI 4x4 AT,3200000,2018,35000,Diesel,Automatic,Pune,White,First,Individual,,,,,4697.0,1882.0,1665.0,7.0,63.0
+1323,Maruti Suzuki,Alto LXi BS-III,140000,2009,65000,Petrol,Manual,Yamunanagar,Silver,Third,Individual,796 cc,47@6200,62@3000,,3495.0,1475.0,1460.0,5.0,35.0
+1334,Volkswagen,Polo Trendline 1.2L (P),345000,2011,101923,Petrol,Manual,Bangalore,White,Second,Individual,,,,,,,,,
+1356,Chevrolet,Captiva LTZ AWD AT,475000,2012,74000,Diesel,Automatic,Mohali,White,First,Individual,1991 cc,150@4000,320@2000,,4660.0,1870.0,1755.0,7.0,65.0
+1366,Hyundai,Eon Magna [2011-2012],185000,2012,55700,Petrol,Manual,Jamshedpur,Silver,Second,Individual,814 cc,56@5500,75@4000,,3495.0,1550.0,1500.0,5.0,32.0
+1383,Hyundai,Santro XO eRLX - Euro III,178000,2007,85000,Petrol,Manual,Coimbatore,Silver,Second,Individual,1086 cc,63@5500,89@3000,,3565.0,1525.0,1590.0,5.0,35.0
+1397,Audi,A4 2.0 TDI Technology,1150000,2013,30000,Diesel,Automatic,Delhi,Silver,Second,Individual,,,,,,,,,
+1438,Audi,A4 2.0 TDI Sline,975000,2012,56000,Diesel,Automatic,Delhi,White,Second,Individual,,,,,,,,,
+1442,Hyundai,i20 Magna 1.2,245000,2011,41000,Petrol,Manual,Delhi,Red,First,Individual,,,,,,,,,
+1463,Maruti Suzuki,Wagon R LXi CNG,225000,2012,57000,CNG,Manual,Delhi,Silver,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+1518,Chevrolet,Cruze LTZ,400000,2011,80000,Diesel,Manual,Mumbai,Silver,Third,Individual,1991 cc,150@4000,327@2600,,4597.0,1788.0,1477.0,5.0,60.0
+1526,Maruti Suzuki,Wagon R VXi 1.0 [2019-2019],570000,2022,5000,Petrol,Manual,Kanpur,White,First,Individual,,,,,3655.0,1620.0,1675.0,5.0,32.0
+1527,Honda,CR-V 2.4 AT,844999,2014,80121,Petrol,Automatic,Mumbai,White,Second,Individual,,,,,,,,,
+1533,Mercedes-Benz,E-Class 200,7050000,2022,1102,Petrol,Manual,Bangalore,Black,UnRegistered Car,Individual,,,,,,,,,
+1542,Toyota,Innova 2.5 V 7 STR,650000,2012,143477,Diesel,Manual,Dehradun,Gold,Second,Individual,2494 cc,102@5600,200@1400,,4555.0,1770.0,1755.0,7.0,55.0
+1549,Maruti Suzuki,SX4 VXi,185000,2010,64000,Petrol,Manual,Delhi,Silver,First,Individual,1586 cc,102@5500,145@4200,,4490.0,1735.0,1560.0,5.0,50.0
+1553,Maruti Suzuki,Wagon R LXi,350000,2012,55000,Petrol,Manual,Hyderabad,Blue,First,Individual,998 cc,68@6200,90@3500,,3539.0,1475.0,1700.0,5.0,35.0
+1574,Maruti Suzuki,Ritz VXI BS-IV,265000,2011,28000,Petrol,Manual,Mumbai,Silver,First,Individual,,,,,,,,,
+1579,Audi,Q5 3.0 TDI quattro,825000,2009,63300,Diesel,Automatic,Delhi,White,First,Individual,2967 cc,240@4000,500@1500,,4628.0,1879.0,1651.0,5.0,75.0
+1618,Hyundai,i20 Asta 1.4 CRDI,434999,2012,76148,Diesel,Manual,Hyderabad,Silver,First,Individual,1396 cc,90@4000,220@1750,,3940.0,1710.0,1505.0,5.0,45.0
+1627,Jeep,Compass Longitude (O) 2.0 Diesel [2017-2020],1585000,2019,65000,Diesel,Manual,Mohali,White,First,Individual,,,,,4395.0,1818.0,1640.0,5.0,60.0
+1628,Toyota,Innova 2.5 V 7 STR,960000,2012,222000,Diesel,Manual,Hyderabad,Silver,First,Individual,2494 cc,102@5600,200@1400,,4555.0,1770.0,1755.0,7.0,55.0
+1634,Maruti Suzuki,Ritz VXI BS-IV,204999,2011,42152,Petrol,Manual,Siliguri,Brown,First,Corporate,,,,,,,,,
+1656,Hyundai,i20 Sportz 1.2 BS-IV,350000,2011,84873,Petrol,Manual,Indore,Red,Second,Individual,,,,,,,,,
+1679,Maruti Suzuki,Wagon R LXi,285000,2013,25200,Petrol,Manual,Ahmedabad,White,First,Individual,998 cc,68@6200,90@3500,,3539.0,1475.0,1700.0,5.0,35.0
+1682,Maruti Suzuki,Ritz VXI BS-IV,190000,2011,58888,Petrol,Manual,Delhi,Maroon,Second,Individual,,,,,,,,,
+1732,Maruti Suzuki,Alto LXi BS-III,200000,2008,41000,Petrol,Manual,Mysore,Blue,First,Individual,796 cc,47@6200,62@3000,,3495.0,1475.0,1460.0,5.0,35.0
+1771,Porsche,Panamera 3.0 Diesel,5590000,2015,33000,Diesel,Automatic,Delhi,White,First,Individual,,,,,,,,,
+1774,MG,Hector Sharp 1.5 DCT Petrol [2019-2020],1889999,2021,17000,Petrol,Automatic,Delhi,White,First,Individual,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,,4655.0,1835.0,1760.0,5.0,60.0
+1808,Maruti Suzuki,SX4 VXi,325000,2012,118000,Petrol,Manual,Pune,White,First,Individual,1586 cc,102@5500,145@4200,,4490.0,1735.0,1560.0,5.0,50.0
+1814,Maruti Suzuki,Alto VXI,385000,2019,2200,Petrol,Manual,Mumbai,White,First,Individual,,,,,,,,,
+1821,Toyota,Innova 2.5 E,160000,2008,90000,Diesel,Manual,Varanasi,White,Fourth,Individual,2494 cc,102@5600,200@3400,,4555.0,1770.0,1755.0,8.0,55.0
+1859,Maruti Suzuki,Zen LX,130000,1996,100000,Petrol + LPG,Manual,Coimbatore,White,Second,Individual,,,,,,,,,
+1861,Maruti Suzuki,Ritz Ldi BS-IV,195000,2011,75000,Diesel,Manual,Kanpur,White,First,Individual,1248 cc,75@4000,190@2000,,3715.0,1680.0,1620.0,5.0,43.0
+1879,Maruti Suzuki,Wagon R LXi,220000,2012,54000,Petrol,Manual,Agra,Brown,First,Individual,998 cc,68@6200,90@3500,,3539.0,1475.0,1700.0,5.0,35.0
+1898,Maruti Suzuki,Alto VXI,316000,2019,17491,Petrol,Manual,Kolkata,Others,First,Individual,,,,,,,,,
+1903,Hyundai,i20 Magna 1.2,250000,2012,72000,Petrol,Manual,Mumbai,White,Third,Individual,,,,,,,,,
+1928,Porsche,Cayenne 3.2 V6 Petrol,3600000,2014,43000,Petrol,Automatic,Mumbai,White,Second,Individual,,,,,,,,,
+1936,Honda,City CVT,185000,2008,70000,Petrol,Automatic,Lucknow,White,Second,Individual,1497 cc,78@5500,125@2700,,4390.0,1690.0,1495.0,5.0,42.0
+1963,Maruti Suzuki,Wagon R LXi,290000,2012,12300,Petrol,Manual,Mumbai,Blue,First,Individual,998 cc,68@6200,90@3500,,3539.0,1475.0,1700.0,5.0,35.0
+1978,Maruti Suzuki,Ritz Ldi BS-IV,160000,2011,89000,Diesel,Manual,Dehradun,Maroon,Second,Individual,1248 cc,75@4000,190@2000,,3715.0,1680.0,1620.0,5.0,43.0
+1980,Maruti Suzuki,Wagon R VXi 1.0 [2019-2019],420000,2018,50000,Petrol,Manual,Bhubaneswar,White,UnRegistered Car,Individual,,,,,3655.0,1620.0,1675.0,5.0,32.0
+1989,Maruti Suzuki,Wagon R LXi CNG,260000,2013,89000,CNG,Manual,Lucknow,Silver,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+1992,Toyota,Innova 2.0 G1 BS-IV,555000,2010,261236,Petrol,Manual,Mumbai,Silver,First,Individual,1998 cc,136@5600,182@4000,,4555.0,1770.0,1755.0,8.0,55.0
+2009,Audi,A4 2.0 TDI Sline,775000,2012,89000,Diesel,Automatic,Mohali,Black,Second,Individual,,,,,,,,,
+2025,Honda,Accord 2.4 iVtec AT,195000,2008,57885,Petrol,Automatic,Delhi,Beige,First,Individual,,,,,,,,,
+2035,Maruti Suzuki,Wagon R LXi,265000,2011,41000,Petrol,Manual,Pune,Brown,Second,Individual,998 cc,68@6200,90@3500,,3539.0,1475.0,1700.0,5.0,35.0
+2052,Hyundai,i20 Sportz 1.4 CRDI,409999,2014,68000,Diesel,Manual,Agra,Silver,First,Individual,1396 cc,90@4000,220@1750,,3940.0,1710.0,1505.0,5.0,45.0
